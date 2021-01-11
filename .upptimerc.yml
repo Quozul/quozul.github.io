@@ -1,11 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: Quozul # Your GitHub username
+repo: quozul.github.io # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Quozul.dev
-    url: https://quozul.dev
+    url: https://quozul.dev/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -13,12 +13,14 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Quozul.dev Status
+  introTitle: "**Quozul.dev** uptime monitor and status page, powered by Upptime."
+  introMessage: 
   navbar:
     - title: Status
       href: /
+    - title: Quozul.dev
+      href: https://quozul.dev/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
