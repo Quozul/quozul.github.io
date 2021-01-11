@@ -1,7 +1,7 @@
 [
   {
     "name": "Quozul.dev",
-    "url": "https://quozul.dev",
+    "url": "https://quozul.dev/",
     "icon": "https://favicons.githubusercontent.com/quozul.dev",
     "slug": "quozul-dev",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 439,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "time": 471,
+    "timeDay": 471,
+    "timeWeek": 471,
+    "timeMonth": 471,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   }
 ]
