@@ -6,7 +6,7 @@
     "slug": "quozul-dev",
     "status": "up",
     "uptime": "95.82%",
-    "uptimeDay": "54.88%",
+    "uptimeDay": "59.92%",
     "uptimeWeek": "78.63%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "95.82%",
@@ -26,17 +26,19 @@
     "url": "https://www.pickaria.fr/",
     "icon": "https://favicons.githubusercontent.com/www.pickaria.fr",
     "slug": "pickaria-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 618,
     "timeDay": 618,
     "timeWeek": 618,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-15": 0
+    }
   }
 ]
