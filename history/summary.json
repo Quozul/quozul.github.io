@@ -26,19 +26,19 @@
     "url": "https://www.pickaria.fr/",
     "icon": "https://favicons.githubusercontent.com/www.pickaria.fr",
     "slug": "pickaria-fr",
-    "status": "down",
-    "uptime": "82.98%",
-    "uptimeDay": "82.98%",
-    "uptimeWeek": "82.98%",
-    "uptimeMonth": "82.98%",
-    "uptimeYear": "82.98%",
-    "time": 538,
-    "timeDay": 538,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "78.92%",
+    "uptimeDay": "78.92%",
+    "uptimeWeek": "78.92%",
+    "uptimeMonth": "78.92%",
+    "uptimeYear": "78.92%",
+    "time": 567,
+    "timeDay": 567,
+    "timeWeek": 567,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2021-02-15": 75
+      "2021-02-15": 98
     }
   }
 ]
