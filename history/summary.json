@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/quozul.dev",
     "slug": "quozul-dev",
     "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "64.71%",
+    "uptime": "95.84%",
+    "uptimeDay": "73.06%",
     "uptimeWeek": "78.63%",
     "uptimeMonth": "95.08%",
-    "uptimeYear": "95.83%",
+    "uptimeYear": "95.84%",
     "time": 531,
     "timeDay": 523,
     "timeWeek": 513,
@@ -26,19 +26,19 @@
     "url": "https://www.pickaria.fr/",
     "icon": "https://favicons.githubusercontent.com/www.pickaria.fr",
     "slug": "pickaria-fr",
-    "status": "up",
-    "uptime": "91.77%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "91.77%",
-    "uptimeMonth": "91.77%",
-    "uptimeYear": "91.77%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 499,
     "timeDay": 499,
     "timeWeek": 499,
     "timeMonth": 499,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2021-02-15": 12
+      "2021-02-15": 0
     }
   }
 ]
