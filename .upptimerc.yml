@@ -6,8 +6,8 @@ repo: quozul.github.io # Your GitHub repository name
 sites:
   - name: Quozul.dev
     url: https://quozul.dev/
-  - name: Pickaria.fr
-    url: https://www.pickaria.fr/
+#  - name: Pickaria.fr
+#    url: https://www.pickaria.fr/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
